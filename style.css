@@ -1,0 +1,25 @@
+body{
+    color: rebeccapurple;
+    background-image: url("https://cdn.wallpapersafari.com/59/80/o9S5QY.png");
+    background-size: cover;
+    font-family: 'Gluten', cursive;
+}
+
+.heading{
+width: 80%;
+font-size: 22px;    
+}
+
+#camera{
+    border: 2px dotted purple;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_object, #result_object_name , #result_object_accuracy{
+    color: red;
+}
+
+#change_color{
+    color: white;
+}
